@@ -75,8 +75,6 @@
 9. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 10. [Car Fleet](https://leetcode.com/problems/car-fleet/)
 
-# Problem List
-
 ## Binary Search Problems
 1. [Binary Search](https://leetcode.com/problems/binary-search/)
 2. [Square Root](https://leetcode.com/problems/sqrtx/)
